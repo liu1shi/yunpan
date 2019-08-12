@@ -10,3 +10,5 @@ http://www.sublimetext.com        编写代码工具
 http://note.youdao.com               有道云笔记     liu1shi@163.com  l
 
 https://www.jianshu.com/p/ab6411a05bc2     cocoapods安装
+
+https://www.teamviewer.cn         电脑远程控制         liu1shi@163.com     L
